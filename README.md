@@ -4,6 +4,8 @@
 
 
 1 准备使用
+
+
     1.1 下载安装 Mozilla Firefox
             请在此网站下载 Mozilla Firefox：
                 https://www.firefox.com.cn/
@@ -23,6 +25,8 @@
     1.5 至此，你已经可以运行 健康上报 了，后续将介绍如何配置 健康上报 .
 
 2 配置 健康上报
+
+
     2.1 运行 Application.py ，按提示填写你的学号和密码.
 
     2.2（可选） 为 Application.py 创建快捷方式，以快速运行.
